@@ -1,0 +1,16 @@
+{
+    "name": "cpaste/duplicate-post",
+    "description": "Permet de dupliquer les articles de WordPress !",
+    "type": "wordpress-plugin",
+    "autoload": {
+        "psr-4": {
+            "Cpaste\\DuplicatePost\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "CPaste"
+        }
+    ],
+    "require": {}
+}
